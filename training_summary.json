@@ -1,0 +1,14 @@
+{
+    "best_val_acc": 0.7421875,
+    "best_val_f1": 0.562553588972129,
+    "epochs_run": 107,
+    "train_acc_final": 0.69453125,
+    "val_acc_final": 0.7109375,
+    "train_loss_final": 0.06609039390459656,
+    "val_loss_final": 0.05610886697346965,
+    "training_time_min": 24.88,
+    "learning_rate_end": 1.953125e-06,
+    "optimizer": "AdamW",
+    "criterion": "SoftTargetFocalLoss()",
+    "label_smoothing": 0.1
+}

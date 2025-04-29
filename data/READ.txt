@@ -1,0 +1,26 @@
+Utilizing two datasets for this project.
+The first being: 
+INRIA Person detection dataset Computer Vision Project by Pascal to Yolo
+	https://universe.roboflow.com/pascal-to-yolo-8yygq/inria-person-detection-dataset
+	902 Images with annotations
+	640x640 pixel size
+	Train set - 632 Images - 70%
+	Valid set - 180 Images - 20%
+	Test set - 90 images - 10%
+	Classes - 1 person
+
+The second being:
+Animal Image Dataset (90 Different Animals) by Sourav Banerjee
+	https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals/data
+	902 Images
+	Resize to 640x640 pixel size
+	Train set - 632 Images - 70%
+	Valid set - 180 Images - 20%
+	Test set - 90 images - 10%
+	Classes - 17 animals # (gorilla, orangutan, chimp, etc)
+
+total: 
+1804 images of humans and non-humans
+1264 train images
+360 valid images
+180 test images

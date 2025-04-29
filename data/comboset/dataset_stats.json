@@ -1,0 +1,72 @@
+{
+    "class_distribution": {
+        "train": {
+            "person": 632,
+            "badger": 38,
+            "cat": 38,
+            "chimpanzee": 38,
+            "cow": 37,
+            "coyote": 37,
+            "elephant": 37,
+            "gorilla": 37,
+            "orangutan": 37,
+            "penguin": 37,
+            "porcupine": 37,
+            "possum": 37,
+            "rhinoceros": 37,
+            "sheep": 37,
+            "starfish": 37,
+            "whale": 37,
+            "wombat": 37,
+            "zebra": 37
+        },
+        "valid": {
+            "person": 180,
+            "badger": 11,
+            "cat": 10,
+            "chimpanzee": 11,
+            "cow": 11,
+            "coyote": 11,
+            "elephant": 11,
+            "gorilla": 11,
+            "orangutan": 11,
+            "penguin": 11,
+            "porcupine": 11,
+            "possum": 11,
+            "rhinoceros": 10,
+            "sheep": 10,
+            "starfish": 10,
+            "whale": 10,
+            "wombat": 10,
+            "zebra": 10
+        },
+        "test": {
+            "person": 90,
+            "badger": 5,
+            "cat": 5,
+            "chimpanzee": 4,
+            "cow": 5,
+            "coyote": 5,
+            "elephant": 5,
+            "gorilla": 5,
+            "orangutan": 5,
+            "penguin": 5,
+            "porcupine": 5,
+            "possum": 5,
+            "rhinoceros": 6,
+            "sheep": 6,
+            "starfish": 6,
+            "whale": 6,
+            "wombat": 6,
+            "zebra": 6
+        }
+    },
+    "splits_percentage": {
+        "train": "70.07%",
+        "valid": "19.96%",
+        "test": "9.98%"
+    },
+    "total_images": 1804,
+    "offset_applied_to": "animal",
+    "offset_value": 1
+}
