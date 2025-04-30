@@ -238,7 +238,7 @@ This project evolves into a robust, memory-optimized, and modular CNN pipeline. 
   - **Make & Model** Alienware m15 R7
   - **GPU:** NVIDIA GeForce RTX 3060 Mobile (6 GB VRAM)
   - **Secondary GPU:** Integrated AMD Radeon Graphics
-    **CPU:** AMD Ryzen 7 6800H (16 threads @ 4.78 GHz)
+  - **CPU:** AMD Ryzen 7 6800H (16 threads @ 4.78 GHz)
   - **RAM:** 16 GB DDR5
   - **CUDA Version:** CUDA Version: 12.8
   - **Operating System:** Pop!_OS 22.04 LTS
