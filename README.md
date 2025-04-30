@@ -324,7 +324,7 @@ No Guarantee that I will regularly upload things but if I do they would be at on
 <p>I understand that grasping the fundamentals of CNNs and related AI concepts can be overwhelming at first. My goal is to make these topics more accessible through these notebooks.</p>
 
 <h3>Permissions:</h3>
-<p>You are free to download, use, edit, and reference the notebooks, Python code, and Markdown content. I aim for accuracy in the explanations provided, though I acknowledge that scientific understanding is always evolving. I welcome constructive feedback and corrections.</p>
+<p>You are free to download, use, edit, and reference the notebooks, Python code, and Markdown content. I aim for accuracy I am still learning. I welcome constructive feedback and or corrections.</p>
 
 <p>This project is intended as a learning resource.</p>
 
